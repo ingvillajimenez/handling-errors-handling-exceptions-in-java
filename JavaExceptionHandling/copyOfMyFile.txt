@@ -1,0 +1,2 @@
+This is another copy!
+Hello! Welcome to Java Exception Handling
